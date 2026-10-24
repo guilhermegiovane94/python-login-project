@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  },
+  "invalidUser": {
+    "username": "usuario_invalido",
+    "password": "senha_errada"
+  },
+  "emptyUser": {
+    "username": "",
+    "password": ""
+  }
+}
